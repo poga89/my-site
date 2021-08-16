@@ -1,0 +1,5 @@
+baseurl = "http://www.example.com"
+title = "Braider Polo"
+theme = "hugo-coder"
+languagecode = "es"
+defaultcontentlanguage = "es"
