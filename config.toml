@@ -16,7 +16,7 @@ author = " Ing. Braider Polo G."
 description = "Sito personal"
 keywords = "blog,developer,personal"
 info = ["Arquitecto de Software", ""]
-avatarURL = "images/avatar.jpg"
+# avatarURL = "images/avatar.jpg"
 gravatar = "braider@kompile.co"
 footerContent = "Epecialista en Arquitectura Empresarial de Software."
 dateFormat = "January 2, 2021"
@@ -132,25 +132,25 @@ type = "application/rss+xml"
 [languages.en]
 languageName = ":uk:"
 
-[[languages.en.menu.main]]
-name = "About"
-weight = 1
-url = "about/"
+ [[languages.en.menu.main]]
+ name = "About"
+ weight = 1
+ url = "about/"
 
-[[languages.en.menu.main]]
-name = "Blog"
-weight = 2
-url = "posts/"
+# [[languages.en.menu.main]]
+# name = "Blog"
+# weight = 2
+# url = "posts/"
 
-[[languages.en.menu.main]]
-name = "Projects"
-weight = 3
-url = "projects/"
+ [[languages.en.menu.main]]
+ name = "Projects"
+ weight = 3
+ url = "projects/"
 
-[[languages.en.menu.main]]
-name = "Contact me"
-weight = 5
-url = "contact/"
+ [[languages.en.menu.main]]
+ name = "Contact me"
+ weight = 5
+ url = "contact/"
 
 
 # [languages.pt-br]
