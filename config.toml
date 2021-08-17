@@ -17,8 +17,8 @@ description = "Sito personal"
 keywords = "blog,developer,personal"
 info = ["Arquitecto de Software", ""]
 # avatarURL = "images/avatar.jpg"
-gravatar = "braider@kompile.co"
-footerContent = "Epecialista en Arquitectura Empresarial de Software."
+# gravatar = "images/avatar.jpg"
+footerContent = "Especialista en Arquitectura Empresarial de Software."
 dateFormat = "January 2, 2021"
 hideFooter = false
 hideCredits = false
@@ -123,7 +123,7 @@ url = "https://www.linkedin.com/in/braider-polo/"
 
 [[params.social]]
 name = "RSS"
-icon = "fa fa-usd"
+icon = "fa fa-industry"
 weight = 6
 url = "https://kompile.co"
 rel = "alternate"
