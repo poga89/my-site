@@ -16,8 +16,8 @@ author = " Ing. Braider Polo G."
 description = "Sito personal"
 keywords = "blog,developer,personal"
 info = ["Arquitecto de Software", ""]
-# avatarURL = "images/avatar.jpg"
-# gravatar = "images/avatar.jpg"
+avatarURL = "images/avatar.png"
+gravatar = "images/avatar.png"
 footerContent = "Especialista en Arquitectura Empresarial de Software."
 dateFormat = "January 2, 2021"
 hideFooter = false
@@ -135,7 +135,8 @@ languageName = ":uk:"
  [[languages.en.menu.main]]
  name = "About"
  weight = 1
- url = "about/"
+ # url = "about/"
+ url = ""
 
 # [[languages.en.menu.main]]
 # name = "Blog"
@@ -145,12 +146,13 @@ languageName = ":uk:"
  [[languages.en.menu.main]]
  name = "Projects"
  weight = 3
- url = "projects/"
+ # url = "projects/"
+ url = ""
 
  [[languages.en.menu.main]]
  name = "Contact me"
  weight = 5
- url = "contact/"
+ url = "https://www.linkedin.com/in/braider-polo/"
 
 
 # [languages.pt-br]
